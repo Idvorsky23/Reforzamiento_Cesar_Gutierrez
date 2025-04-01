@@ -1,4 +1,4 @@
-#Ejercicio 1
+#Ejercicio 1 - LISTA
 tamaño = int(input("Ingrese el tamaño de la lista: "))
 nombres = list(map(lambda _: input("Ingrese un nombre: "), range(tamaño)))
 print("______________________________")

@@ -1,4 +1,4 @@
-#Ejercicio 4
+#Ejercicio 4 - LISTA
 tamaño = int(input("Ingrese el tamaño de la lista: "))
 compañias = list(map(lambda _: input("Ingrese una compañía: "), range(tamaño)))
 compañias_repetidas = compañias + list(map(lambda _: input("Ingrese una compañía repetida: "), range(2)))

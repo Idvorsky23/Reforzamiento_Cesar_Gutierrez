@@ -1,4 +1,4 @@
-#Ejercicio 3
+#Ejercicio 3 - LISTA
 estudiantes = ["Juan", "Maria", "Carlos", "Ana", "Luis"]
 nombre = input("Ingrese un nombre: ")
 
