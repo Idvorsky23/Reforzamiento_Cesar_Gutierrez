@@ -1,3 +1,4 @@
+#Ejercicio 2
 departamentos = ["Lima", "Cusco", "Arequipa", "Piura", "Trujillo"]
 print("Lista actual:", departamentos)
 
